@@ -46,12 +46,6 @@ Currently working with:
 - Git
 - GitHub
 
-Past experience includes:
-
-- Unity
-- Unreal Engine
-- Audio Production
-- Voice Acting
 
 ---
 
