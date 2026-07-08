@@ -35,18 +35,6 @@ https://www.reddit.com/r/4Xgaming/s/NHP9IFSncf
 
 ---
 
-# 🌱 Learning by Building
-
-Alongside the Civilization Classics Collection, I'm properly learning C# through real projects.
-
-Rather than following tutorials line by line, I'm challenging myself to solve real programming problems, document what I learn, and build software from the ground up.
-
-I'm writing about that journey here:
-
-📖 https://learningbybuilding.hashnode.dev/
-
----
-
 # 🛠️ Technologies
 
 Currently working with:
