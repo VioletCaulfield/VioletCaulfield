@@ -25,7 +25,7 @@ A little Windows app I made to save and organise emoji URLs locally, so they're 
 ### Links
 
 - 💻 **GitHub:** https://github.com/VioletCaulfield/URL-Emoji-Vault
-- 📥 **Downloads:** [Latest release](https://github.com/VioletCaulfield/URL-Emoji-Vault/releases/latest)
+- 📥 **Downloads:** [Latest release](https://github.com/viviviolet106/URL-Emoji-Vault)
 
 ---
 
@@ -46,7 +46,7 @@ A preservation project dedicated to making the classic Civilization games easier
 ### Links
 
 - 📥 **Download:** https://archive.org/details/CivilizationClassicsCollection
-- 💻 **GitHub:** https://github.com/VioletCaulfield/Civilization-Classics-Collection
+- 💻 **GitHub:** https://github.com/viviviolet106/Civilization-Classics-Collection
 - 💬 **Community discussion:** https://www.reddit.com/r/4Xgaming/s/NHP9IFSncf
 
 # 🛠️ Technologies
