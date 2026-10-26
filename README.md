@@ -24,8 +24,8 @@ A little Windows app I made to save and organise emoji URLs locally, so they're 
 
 ### Links
 
-- 💻 **GitHub:** https://github.com/VioletCaulfield/URL-Emoji-Vault
-- 📥 **Downloads:** [Latest release](https://github.com/viviviolet106/URL-Emoji-Vault)
+- 💻 **GitHub:** https://github.com/viviviolet106/URL-Emoji-Vault
+- 📥 **Downloads:** [Latest release](https://github.com/viviviolet106/URL-Emoji-Vault/releases)
 
 ---
 
